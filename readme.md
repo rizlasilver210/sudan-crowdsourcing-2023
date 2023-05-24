@@ -5,7 +5,6 @@ This Shiny app is designed to visualize healthcare facilities in Sudan on an int
 ## Features
 
 -   Interactive map displaying healthcare facilities in Sudan
--   Filter options to narrow down the displayed facilities based on facility type
 -   Clickable markers to view detailed information about each facility
 -   Zoom and pan controls for easy navigation on the map
 
