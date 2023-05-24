@@ -18,7 +18,7 @@ To run this Shiny app locally, follow the steps below:
 4.  Open the project in RStudio.
 5.  Install the required packages by running the following command in the R console:
 
-    install.packages(c("shiny", "leaflet", "dplyr"))
+```install.packages(c("shiny", "leaflet", "dplyr"))```
 
 ## Usage
 
@@ -31,7 +31,7 @@ To run this Shiny app locally, follow the steps below:
 
 ## Data
 
-The healthcare facility data used in this app is sourced from <https://data.humdata.org>. It includes information such as facility name, location, and type.
+The healthcare facility data used in this app is sourced from <https://data.humdata.org>. It includes information such as facility name in both Arabic and English with coordinates.
 
 ## Contributing
 
